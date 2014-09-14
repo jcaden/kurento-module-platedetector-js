@@ -22,15 +22,10 @@
     "WebRTC"
   ],
   "dependencies": {
-    "inherits": "^2.0.1",
-    "checktype": "0.0.2",
-    "es6-promise": "1.0.0",
-    "promisecallback": "0.0.1"
+    "checktype": "^0.0.4",
+    "inherits": "^2.0.1"
   },
   "peerDependencies": {
-    "kurento-client": "5.0.0-dev",
-    "kurento-client-core": "5.0.0-dev",
-    "kurento-client-elements": "5.0.0-dev",
-    "kurento-client-filters": "5.0.0-dev"
+    "kurento-client": "5.0.0-dev"
   }
 }
